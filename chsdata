@@ -1,0 +1,1833 @@
+{
+  "totalSupply": 249706441.485718,
+  "holdersCount": 13523,
+  "byDate": {
+    "1518825600000": {
+      "holdersCount": 2,
+      "totalSupply": 1000000000,
+      "transfersCount": 5,
+      "transfersValue": 3550,
+      "emission": 0
+    },
+    "1518912000000": {
+      "holdersCount": 14399,
+      "totalSupply": 1000000000,
+      "transfersCount": 19175,
+      "transfersValue": 99735661.35,
+      "emission": 0
+    },
+    "1519084800000": {
+      "holdersCount": 14400,
+      "totalSupply": 1000000000,
+      "transfersCount": 1,
+      "transfersValue": 30472,
+      "emission": 0
+    },
+    "1519171200000": {
+      "holdersCount": 14421,
+      "totalSupply": 1000000000,
+      "transfersCount": 31,
+      "transfersValue": 1695843.55555,
+      "emission": 0
+    },
+    "1519257600000": {
+      "holdersCount": 14473,
+      "totalSupply": 1000000000,
+      "transfersCount": 64,
+      "transfersValue": 4428765.6255,
+      "emission": 0
+    },
+    "1519344000000": {
+      "holdersCount": 14498,
+      "totalSupply": 1000000000,
+      "transfersCount": 32,
+      "transfersValue": 1495524.8795,
+      "emission": 0
+    },
+    "1519430400000": {
+      "holdersCount": 14522,
+      "totalSupply": 1000000000,
+      "transfersCount": 26,
+      "transfersValue": 4185402.246,
+      "emission": 0
+    },
+    "1519516800000": {
+      "holdersCount": 14541,
+      "totalSupply": 1000000000,
+      "transfersCount": 20,
+      "transfersValue": 504728.055,
+      "emission": 0
+    },
+    "1519603200000": {
+      "holdersCount": 14560,
+      "totalSupply": 1000000000,
+      "transfersCount": 21,
+      "transfersValue": 2607952.5,
+      "emission": 0
+    },
+    "1519689600000": {
+      "holdersCount": 14576,
+      "totalSupply": 1000000000,
+      "transfersCount": 16,
+      "transfersValue": 212967.5,
+      "emission": 0
+    },
+    "1519776000000": {
+      "holdersCount": 14579,
+      "totalSupply": 1000000000,
+      "transfersCount": 3,
+      "transfersValue": 10660,
+      "emission": 0
+    },
+    "1519862400000": {
+      "holdersCount": 14591,
+      "totalSupply": 1000000000,
+      "transfersCount": 12,
+      "transfersValue": 576059.2805,
+      "emission": 0
+    },
+    "1519948800000": {
+      "holdersCount": 12996,
+      "totalSupply": 249471071.21,
+      "transfersCount": 3715,
+      "transfersValue": 121947235.294241,
+      "emission": 0
+    },
+    "1520035200000": {
+      "holdersCount": 12429,
+      "totalSupply": 249471071.21,
+      "transfersCount": 3145,
+      "transfersValue": 30215537.575419,
+      "emission": 0
+    },
+    "1520121600000": {
+      "holdersCount": 12306,
+      "totalSupply": 249471071.21,
+      "transfersCount": 2703,
+      "transfersValue": 24049287.29564,
+      "emission": 0
+    },
+    "1520208000000": {
+      "holdersCount": 11899,
+      "totalSupply": 249471071.21,
+      "transfersCount": 4584,
+      "transfersValue": 27513348.206253,
+      "emission": 0
+    },
+    "1520294400000": {
+      "holdersCount": 12071,
+      "totalSupply": 249471071.21,
+      "transfersCount": 8239,
+      "transfersValue": 45706193.329492,
+      "emission": 0
+    },
+    "1520380800000": {
+      "holdersCount": 12188,
+      "totalSupply": 249471071.21,
+      "transfersCount": 2768,
+      "transfersValue": 16589402.505194,
+      "emission": 0
+    },
+    "1520467200000": {
+      "holdersCount": 12245,
+      "totalSupply": 249471071.21,
+      "transfersCount": 1943,
+      "transfersValue": 16531819.750555,
+      "emission": 0
+    },
+    "1520553600000": {
+      "holdersCount": 12275,
+      "totalSupply": 249471071.21,
+      "transfersCount": 1282,
+      "transfersValue": 8944536.112143,
+      "emission": 0
+    },
+    "1520640000000": {
+      "holdersCount": 12399,
+      "totalSupply": 249471071.21,
+      "transfersCount": 1074,
+      "transfersValue": 5531943.415475,
+      "emission": 0
+    },
+    "1520726400000": {
+      "holdersCount": 12467,
+      "totalSupply": 249471071.21,
+      "transfersCount": 721,
+      "transfersValue": 3240907.616251,
+      "emission": 0
+    },
+    "1520812800000": {
+      "holdersCount": 12513,
+      "totalSupply": 249471071.21,
+      "transfersCount": 794,
+      "transfersValue": 11110338.168027,
+      "emission": 0
+    },
+    "1520899200000": {
+      "holdersCount": 12554,
+      "totalSupply": 249471071.21,
+      "transfersCount": 540,
+      "transfersValue": 2354818.900823,
+      "emission": 0
+    },
+    "1520985600000": {
+      "holdersCount": 12599,
+      "totalSupply": 249471071.21,
+      "transfersCount": 714,
+      "transfersValue": 6171590.447408,
+      "emission": 0
+    },
+    "1521072000000": {
+      "holdersCount": 15430,
+      "totalSupply": 249607266.760916,
+      "transfersCount": 6744,
+      "transfersValue": 19185764.4309,
+      "emission": 136195.550916
+    },
+    "1521158400000": {
+      "holdersCount": 15286,
+      "totalSupply": 249615624.455023,
+      "transfersCount": 763,
+      "transfersValue": 1913044.251402,
+      "emission": 8357.694107
+    },
+    "1521244800000": {
+      "holdersCount": 15127,
+      "totalSupply": 249624872.982881,
+      "transfersCount": 705,
+      "transfersValue": 2608344.04047,
+      "emission": 9248.527858
+    },
+    "1521331200000": {
+      "holdersCount": 15020,
+      "totalSupply": 249628441.625025,
+      "transfersCount": 1111,
+      "transfersValue": 4989767.419054,
+      "emission": 3568.642144
+    },
+    "1521417600000": {
+      "holdersCount": 15070,
+      "totalSupply": 249634437.664073,
+      "transfersCount": 617,
+      "transfersValue": 3813569.626418,
+      "emission": 5996.039048
+    },
+    "1521504000000": {
+      "holdersCount": 14873,
+      "totalSupply": 249636755.281527,
+      "transfersCount": 830,
+      "transfersValue": 2306489.07165,
+      "emission": 2317.617454
+    },
+    "1521590400000": {
+      "holdersCount": 14885,
+      "totalSupply": 249656427.766571,
+      "transfersCount": 982,
+      "transfersValue": 4899854.356558,
+      "emission": 19672.485044
+    },
+    "1521676800000": {
+      "holdersCount": 14906,
+      "totalSupply": 249656512.640885,
+      "transfersCount": 468,
+      "transfersValue": 1844340.575013,
+      "emission": 84.874314
+    },
+    "1521763200000": {
+      "holdersCount": 14892,
+      "totalSupply": 249658817.640885,
+      "transfersCount": 498,
+      "transfersValue": 3106664.224877,
+      "emission": 2305
+    },
+    "1521849600000": {
+      "holdersCount": 14917,
+      "totalSupply": 249665566.009473,
+      "transfersCount": 385,
+      "transfersValue": 1275071.986038,
+      "emission": 6748.368588
+    },
+    "1521936000000": {
+      "holdersCount": 14919,
+      "totalSupply": 249665566.009473,
+      "transfersCount": 317,
+      "transfersValue": 3152876.983698,
+      "emission": 0
+    },
+    "1522022400000": {
+      "holdersCount": 14945,
+      "totalSupply": 249665566.009473,
+      "transfersCount": 565,
+      "transfersValue": 2626751.356791,
+      "emission": 0
+    },
+    "1522108800000": {
+      "holdersCount": 14922,
+      "totalSupply": 249670238.630178,
+      "transfersCount": 554,
+      "transfersValue": 3478313.99077,
+      "emission": 4672.620705
+    },
+    "1522195200000": {
+      "holdersCount": 14919,
+      "totalSupply": 249674875.000257,
+      "transfersCount": 908,
+      "transfersValue": 4279797.590494,
+      "emission": 4636.370079
+    },
+    "1522281600000": {
+      "holdersCount": 14906,
+      "totalSupply": 249677203.70682,
+      "transfersCount": 529,
+      "transfersValue": 3825282.946961,
+      "emission": 2328.706563
+    },
+    "1522368000000": {
+      "holdersCount": 14904,
+      "totalSupply": 249677203.70682,
+      "transfersCount": 454,
+      "transfersValue": 2272322.346431,
+      "emission": 0
+    },
+    "1522454400000": {
+      "holdersCount": 14899,
+      "totalSupply": 249677203.70682,
+      "transfersCount": 388,
+      "transfersValue": 3087041.814226,
+      "emission": 0
+    },
+    "1522540800000": {
+      "holdersCount": 14904,
+      "totalSupply": 249677324.70682,
+      "transfersCount": 357,
+      "transfersValue": 1407105.428283,
+      "emission": 121
+    },
+    "1522627200000": {
+      "holdersCount": 14916,
+      "totalSupply": 249677409.581134,
+      "transfersCount": 246,
+      "transfersValue": 771745.231876,
+      "emission": 84.874314
+    },
+    "1522713600000": {
+      "holdersCount": 14946,
+      "totalSupply": 249677409.581134,
+      "transfersCount": 311,
+      "transfersValue": 922827.184761,
+      "emission": 0
+    },
+    "1522800000000": {
+      "holdersCount": 14936,
+      "totalSupply": 249677511.430311,
+      "transfersCount": 281,
+      "transfersValue": 1748248.665291,
+      "emission": 101.849177
+    },
+    "1522886400000": {
+      "holdersCount": 14946,
+      "totalSupply": 249680804.566321,
+      "transfersCount": 253,
+      "transfersValue": 1092632.158224,
+      "emission": 3293.13601
+    },
+    "1522972800000": {
+      "holdersCount": 14938,
+      "totalSupply": 249680804.566321,
+      "transfersCount": 222,
+      "transfersValue": 1644554.570309,
+      "emission": 0
+    },
+    "1523059200000": {
+      "holdersCount": 14933,
+      "totalSupply": 249680804.566321,
+      "transfersCount": 184,
+      "transfersValue": 972650.496489,
+      "emission": 0
+    },
+    "1523145600000": {
+      "holdersCount": 14944,
+      "totalSupply": 249680804.566321,
+      "transfersCount": 215,
+      "transfersValue": 831918.650738,
+      "emission": 0
+    },
+    "1523232000000": {
+      "holdersCount": 14925,
+      "totalSupply": 249680804.566321,
+      "transfersCount": 255,
+      "transfersValue": 1186732.950171,
+      "emission": 0
+    },
+    "1523318400000": {
+      "holdersCount": 14874,
+      "totalSupply": 249680804.566321,
+      "transfersCount": 337,
+      "transfersValue": 2106263.042445,
+      "emission": 0
+    },
+    "1523404800000": {
+      "holdersCount": 14833,
+      "totalSupply": 249680804.566321,
+      "transfersCount": 426,
+      "transfersValue": 3036493.736686,
+      "emission": 0
+    },
+    "1523491200000": {
+      "holdersCount": 14789,
+      "totalSupply": 249680804.566321,
+      "transfersCount": 441,
+      "transfersValue": 3396720.8661,
+      "emission": 0
+    },
+    "1523577600000": {
+      "holdersCount": 14791,
+      "totalSupply": 249680804.566321,
+      "transfersCount": 321,
+      "transfersValue": 1670451.916489,
+      "emission": 0
+    },
+    "1523664000000": {
+      "holdersCount": 14781,
+      "totalSupply": 249680906.415498,
+      "transfersCount": 265,
+      "transfersValue": 1771290.168373,
+      "emission": 101.849177
+    },
+    "1523750400000": {
+      "holdersCount": 14742,
+      "totalSupply": 249680906.415498,
+      "transfersCount": 475,
+      "transfersValue": 3167219.3452,
+      "emission": 0
+    },
+    "1523836800000": {
+      "holdersCount": 14763,
+      "totalSupply": 249680906.415498,
+      "transfersCount": 382,
+      "transfersValue": 2614446.749314,
+      "emission": 0
+    },
+    "1523923200000": {
+      "holdersCount": 14759,
+      "totalSupply": 249680990.415498,
+      "transfersCount": 338,
+      "transfersValue": 2629019.295481,
+      "emission": 84
+    },
+    "1524009600000": {
+      "holdersCount": 14743,
+      "totalSupply": 249680990.415498,
+      "transfersCount": 276,
+      "transfersValue": 1910636.789485,
+      "emission": 0
+    },
+    "1524096000000": {
+      "holdersCount": 14764,
+      "totalSupply": 249680990.415498,
+      "transfersCount": 420,
+      "transfersValue": 1821998.997693,
+      "emission": 0
+    },
+    "1524182400000": {
+      "holdersCount": 14744,
+      "totalSupply": 249680990.415498,
+      "transfersCount": 302,
+      "transfersValue": 2692427.766037,
+      "emission": 0
+    },
+    "1524268800000": {
+      "holdersCount": 14732,
+      "totalSupply": 249680990.415498,
+      "transfersCount": 260,
+      "transfersValue": 5071860.848569,
+      "emission": 0
+    },
+    "1524355200000": {
+      "holdersCount": 14750,
+      "totalSupply": 249680990.415498,
+      "transfersCount": 270,
+      "transfersValue": 1658256.025377,
+      "emission": 0
+    },
+    "1524441600000": {
+      "holdersCount": 14787,
+      "totalSupply": 249681075.289798,
+      "transfersCount": 543,
+      "transfersValue": 2047388.104711,
+      "emission": 84.8743
+    },
+    "1524528000000": {
+      "holdersCount": 14742,
+      "totalSupply": 249681177.138975,
+      "transfersCount": 517,
+      "transfersValue": 3222655.967513,
+      "emission": 101.849177
+    },
+    "1524614400000": {
+      "holdersCount": 14736,
+      "totalSupply": 249681177.138965,
+      "transfersCount": 287,
+      "transfersValue": 882714.024271,
+      "emission": 0
+    },
+    "1524700800000": {
+      "holdersCount": 14732,
+      "totalSupply": 249681177.138965,
+      "transfersCount": 294,
+      "transfersValue": 1524228.905799,
+      "emission": 0
+    },
+    "1524787200000": {
+      "holdersCount": 14694,
+      "totalSupply": 249681177.138965,
+      "transfersCount": 403,
+      "transfersValue": 2660896.57476,
+      "emission": 0
+    },
+    "1524873600000": {
+      "holdersCount": 14686,
+      "totalSupply": 249681177.138965,
+      "transfersCount": 417,
+      "transfersValue": 3417535.842867,
+      "emission": 0
+    },
+    "1524960000000": {
+      "holdersCount": 14665,
+      "totalSupply": 249682177.138965,
+      "transfersCount": 566,
+      "transfersValue": 5546053.989029,
+      "emission": 1000
+    },
+    "1525046400000": {
+      "holdersCount": 14640,
+      "totalSupply": 249682177.138965,
+      "transfersCount": 418,
+      "transfersValue": 1770869.570002,
+      "emission": 0
+    },
+    "1525132800000": {
+      "holdersCount": 14595,
+      "totalSupply": 249682177.138965,
+      "transfersCount": 375,
+      "transfersValue": 3121225.528334,
+      "emission": 0
+    },
+    "1525219200000": {
+      "holdersCount": 14571,
+      "totalSupply": 249682177.138965,
+      "transfersCount": 299,
+      "transfersValue": 1743281.707737,
+      "emission": 0
+    },
+    "1525305600000": {
+      "holdersCount": 14496,
+      "totalSupply": 249683177.138965,
+      "transfersCount": 396,
+      "transfersValue": 2763488.847052,
+      "emission": 1000
+    },
+    "1525392000000": {
+      "holdersCount": 14491,
+      "totalSupply": 249683177.138965,
+      "transfersCount": 407,
+      "transfersValue": 3431458.998769,
+      "emission": 0
+    },
+    "1525478400000": {
+      "holdersCount": 14498,
+      "totalSupply": 249683177.138965,
+      "transfersCount": 370,
+      "transfersValue": 2996431.776463,
+      "emission": 0
+    },
+    "1525564800000": {
+      "holdersCount": 14500,
+      "totalSupply": 249683177.138965,
+      "transfersCount": 266,
+      "transfersValue": 2082260.998256,
+      "emission": 0
+    },
+    "1525651200000": {
+      "holdersCount": 14497,
+      "totalSupply": 249683448.736593,
+      "transfersCount": 273,
+      "transfersValue": 1189046.560684,
+      "emission": 271.597628
+    },
+    "1525737600000": {
+      "holdersCount": 14497,
+      "totalSupply": 249683550.585693,
+      "transfersCount": 309,
+      "transfersValue": 3939788.067328,
+      "emission": 101.8491
+    },
+    "1525824000000": {
+      "holdersCount": 14510,
+      "totalSupply": 249683550.585693,
+      "transfersCount": 401,
+      "transfersValue": 2740537.083299,
+      "emission": 0
+    },
+    "1525910400000": {
+      "holdersCount": 14532,
+      "totalSupply": 249683550.585693,
+      "transfersCount": 579,
+      "transfersValue": 3159150.376045,
+      "emission": 0
+    },
+    "1525996800000": {
+      "holdersCount": 14512,
+      "totalSupply": 249683550.585693,
+      "transfersCount": 415,
+      "transfersValue": 2298395.356914,
+      "emission": 0
+    },
+    "1526083200000": {
+      "holdersCount": 14422,
+      "totalSupply": 249683550.585693,
+      "transfersCount": 498,
+      "transfersValue": 3317802.916597,
+      "emission": 0
+    },
+    "1526169600000": {
+      "holdersCount": 14400,
+      "totalSupply": 249683550.585693,
+      "transfersCount": 234,
+      "transfersValue": 1217779.57962,
+      "emission": 0
+    },
+    "1526256000000": {
+      "holdersCount": 14387,
+      "totalSupply": 249683550.585693,
+      "transfersCount": 244,
+      "transfersValue": 2042789.516366,
+      "emission": 0
+    },
+    "1526342400000": {
+      "holdersCount": 14371,
+      "totalSupply": 249683550.585693,
+      "transfersCount": 287,
+      "transfersValue": 1730662.204005,
+      "emission": 0
+    },
+    "1526428800000": {
+      "holdersCount": 14378,
+      "totalSupply": 249686718.389568,
+      "transfersCount": 229,
+      "transfersValue": 788822.209602,
+      "emission": 3167.803875
+    },
+    "1526515200000": {
+      "holdersCount": 14363,
+      "totalSupply": 249686718.389568,
+      "transfersCount": 218,
+      "transfersValue": 1326328.657147,
+      "emission": 0
+    },
+    "1526601600000": {
+      "holdersCount": 14341,
+      "totalSupply": 249686718.389568,
+      "transfersCount": 195,
+      "transfersValue": 829948.365961,
+      "emission": 0
+    },
+    "1526688000000": {
+      "holdersCount": 14324,
+      "totalSupply": 249688820.082446,
+      "transfersCount": 147,
+      "transfersValue": 957779.13824,
+      "emission": 2101.692878
+    },
+    "1526774400000": {
+      "holdersCount": 14296,
+      "totalSupply": 249688820.082446,
+      "transfersCount": 231,
+      "transfersValue": 926929.705909,
+      "emission": 0
+    },
+    "1526860800000": {
+      "holdersCount": 14284,
+      "totalSupply": 249689820.082446,
+      "transfersCount": 211,
+      "transfersValue": 760664.484654,
+      "emission": 1000
+    },
+    "1526947200000": {
+      "holdersCount": 14276,
+      "totalSupply": 249689820.082446,
+      "transfersCount": 179,
+      "transfersValue": 874341.801576,
+      "emission": 0
+    },
+    "1527033600000": {
+      "holdersCount": 14249,
+      "totalSupply": 249689820.082446,
+      "transfersCount": 197,
+      "transfersValue": 1028578.30641,
+      "emission": 0
+    },
+    "1527120000000": {
+      "holdersCount": 14236,
+      "totalSupply": 249689820.082446,
+      "transfersCount": 183,
+      "transfersValue": 608658.490221,
+      "emission": 0
+    },
+    "1527206400000": {
+      "holdersCount": 14220,
+      "totalSupply": 249689820.082446,
+      "transfersCount": 164,
+      "transfersValue": 620434.925758,
+      "emission": 0
+    },
+    "1527292800000": {
+      "holdersCount": 14204,
+      "totalSupply": 249689820.082446,
+      "transfersCount": 147,
+      "transfersValue": 959770.320327,
+      "emission": 0
+    },
+    "1527379200000": {
+      "holdersCount": 14193,
+      "totalSupply": 249689904.95676,
+      "transfersCount": 146,
+      "transfersValue": 598665.713286,
+      "emission": 84.874314
+    },
+    "1527465600000": {
+      "holdersCount": 14186,
+      "totalSupply": 249689904.95676,
+      "transfersCount": 170,
+      "transfersValue": 1320129.516223,
+      "emission": 0
+    },
+    "1527552000000": {
+      "holdersCount": 14159,
+      "totalSupply": 249689904.95676,
+      "transfersCount": 186,
+      "transfersValue": 2248098.237036,
+      "emission": 0
+    },
+    "1527638400000": {
+      "holdersCount": 14165,
+      "totalSupply": 249689904.95676,
+      "transfersCount": 112,
+      "transfersValue": 540323.319428,
+      "emission": 0
+    },
+    "1527724800000": {
+      "holdersCount": 14142,
+      "totalSupply": 249689904.95676,
+      "transfersCount": 173,
+      "transfersValue": 932292.997339,
+      "emission": 0
+    },
+    "1527811200000": {
+      "holdersCount": 14127,
+      "totalSupply": 249689989.831074,
+      "transfersCount": 158,
+      "transfersValue": 1004379.570986,
+      "emission": 84.874314
+    },
+    "1527897600000": {
+      "holdersCount": 14123,
+      "totalSupply": 249689989.831074,
+      "transfersCount": 142,
+      "transfersValue": 486898.696069,
+      "emission": 0
+    },
+    "1527984000000": {
+      "holdersCount": 14123,
+      "totalSupply": 249689989.831074,
+      "transfersCount": 183,
+      "transfersValue": 768957.43467,
+      "emission": 0
+    },
+    "1528070400000": {
+      "holdersCount": 14046,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 293,
+      "transfersValue": 3693842.58601,
+      "emission": 2500
+    },
+    "1528156800000": {
+      "holdersCount": 14029,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 198,
+      "transfersValue": 1716468.684612,
+      "emission": 0
+    },
+    "1528243200000": {
+      "holdersCount": 14003,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 245,
+      "transfersValue": 3323428.743712,
+      "emission": 0
+    },
+    "1528329600000": {
+      "holdersCount": 13924,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 375,
+      "transfersValue": 4778919.248512,
+      "emission": 0
+    },
+    "1528416000000": {
+      "holdersCount": 13879,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 242,
+      "transfersValue": 2020596.355126,
+      "emission": 0
+    },
+    "1528502400000": {
+      "holdersCount": 13883,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 176,
+      "transfersValue": 1122100.454351,
+      "emission": 0
+    },
+    "1528588800000": {
+      "holdersCount": 13843,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 164,
+      "transfersValue": 1113044.177146,
+      "emission": 0
+    },
+    "1528675200000": {
+      "holdersCount": 13814,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 162,
+      "transfersValue": 833340.365945,
+      "emission": 0
+    },
+    "1528761600000": {
+      "holdersCount": 13760,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 168,
+      "transfersValue": 4735371.475746,
+      "emission": 0
+    },
+    "1528848000000": {
+      "holdersCount": 13664,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 229,
+      "transfersValue": 5085879.437592,
+      "emission": 0
+    },
+    "1528934400000": {
+      "holdersCount": 13660,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 148,
+      "transfersValue": 1483503.826951,
+      "emission": 0
+    },
+    "1529020800000": {
+      "holdersCount": 13654,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 140,
+      "transfersValue": 965315.299825,
+      "emission": 0
+    },
+    "1529107200000": {
+      "holdersCount": 13638,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 108,
+      "transfersValue": 485701.022843,
+      "emission": 0
+    },
+    "1529193600000": {
+      "holdersCount": 13636,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 82,
+      "transfersValue": 761408.154308,
+      "emission": 0
+    },
+    "1529280000000": {
+      "holdersCount": 13627,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 113,
+      "transfersValue": 1035509.452562,
+      "emission": 0
+    },
+    "1529366400000": {
+      "holdersCount": 13624,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 118,
+      "transfersValue": 1358441.081217,
+      "emission": 0
+    },
+    "1529452800000": {
+      "holdersCount": 13618,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 114,
+      "transfersValue": 934225.925407,
+      "emission": 0
+    },
+    "1529539200000": {
+      "holdersCount": 13617,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 115,
+      "transfersValue": 739489.806515,
+      "emission": 0
+    },
+    "1529625600000": {
+      "holdersCount": 13630,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 109,
+      "transfersValue": 517006.466546,
+      "emission": 0
+    },
+    "1529712000000": {
+      "holdersCount": 13638,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 88,
+      "transfersValue": 448388.325811,
+      "emission": 0
+    },
+    "1529798400000": {
+      "holdersCount": 13633,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 95,
+      "transfersValue": 604985.072672,
+      "emission": 0
+    },
+    "1529884800000": {
+      "holdersCount": 13628,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 106,
+      "transfersValue": 2235320.062775,
+      "emission": 0
+    },
+    "1529971200000": {
+      "holdersCount": 13614,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 102,
+      "transfersValue": 903437.29386,
+      "emission": 0
+    },
+    "1530057600000": {
+      "holdersCount": 13604,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 88,
+      "transfersValue": 626145.311528,
+      "emission": 0
+    },
+    "1530144000000": {
+      "holdersCount": 13576,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 126,
+      "transfersValue": 1449279.909917,
+      "emission": 0
+    },
+    "1530230400000": {
+      "holdersCount": 13580,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 132,
+      "transfersValue": 999528.264778,
+      "emission": 0
+    },
+    "1530316800000": {
+      "holdersCount": 13574,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 46,
+      "transfersValue": 336650.96701,
+      "emission": 0
+    },
+    "1530403200000": {
+      "holdersCount": 13573,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 37,
+      "transfersValue": 193547.627796,
+      "emission": 0
+    },
+    "1530489600000": {
+      "holdersCount": 13579,
+      "totalSupply": 249692489.831074,
+      "transfersCount": 58,
+      "transfersValue": 354827.944678,
+      "emission": 0
+    },
+    "1530576000000": {
+      "holdersCount": 13579,
+      "totalSupply": 249693789.831074,
+      "transfersCount": 116,
+      "transfersValue": 739963.245819,
+      "emission": 1300
+    },
+    "1530662400000": {
+      "holdersCount": 13586,
+      "totalSupply": 249693789.831074,
+      "transfersCount": 79,
+      "transfersValue": 1205228.361414,
+      "emission": 0
+    },
+    "1530748800000": {
+      "holdersCount": 13602,
+      "totalSupply": 249694789.831074,
+      "transfersCount": 73,
+      "transfersValue": 912838.354058,
+      "emission": 1000
+    },
+    "1530835200000": {
+      "holdersCount": 13593,
+      "totalSupply": 249694789.831074,
+      "transfersCount": 93,
+      "transfersValue": 724460.019257,
+      "emission": 0
+    },
+    "1530921600000": {
+      "holdersCount": 13584,
+      "totalSupply": 249694789.831074,
+      "transfersCount": 81,
+      "transfersValue": 219683.399195,
+      "emission": 0
+    },
+    "1531008000000": {
+      "holdersCount": 13566,
+      "totalSupply": 249694789.831074,
+      "transfersCount": 104,
+      "transfersValue": 520702.523974,
+      "emission": 0
+    },
+    "1531094400000": {
+      "holdersCount": 13563,
+      "totalSupply": 249694789.831074,
+      "transfersCount": 86,
+      "transfersValue": 451931.556748,
+      "emission": 0
+    },
+    "1531180800000": {
+      "holdersCount": 13562,
+      "totalSupply": 249694789.831074,
+      "transfersCount": 130,
+      "transfersValue": 2511218.786308,
+      "emission": 0
+    },
+    "1531267200000": {
+      "holdersCount": 13551,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 96,
+      "transfersValue": 1971861.318345,
+      "emission": 1000
+    },
+    "1531353600000": {
+      "holdersCount": 13544,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 94,
+      "transfersValue": 578178.603767,
+      "emission": 0
+    },
+    "1531440000000": {
+      "holdersCount": 13558,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 97,
+      "transfersValue": 332515.1498,
+      "emission": 0
+    },
+    "1531526400000": {
+      "holdersCount": 13565,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 89,
+      "transfersValue": 725305.458478,
+      "emission": 0
+    },
+    "1531612800000": {
+      "holdersCount": 13564,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 77,
+      "transfersValue": 993310.42185,
+      "emission": 0
+    },
+    "1531699200000": {
+      "holdersCount": 13559,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 97,
+      "transfersValue": 701515.628345,
+      "emission": 0
+    },
+    "1531785600000": {
+      "holdersCount": 13543,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 166,
+      "transfersValue": 1891536.505635,
+      "emission": 0
+    },
+    "1531872000000": {
+      "holdersCount": 13524,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 188,
+      "transfersValue": 1647794.025795,
+      "emission": 0
+    },
+    "1531958400000": {
+      "holdersCount": 13503,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 142,
+      "transfersValue": 1186285.311809,
+      "emission": 0
+    },
+    "1532044800000": {
+      "holdersCount": 13477,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 182,
+      "transfersValue": 2052692.907215,
+      "emission": 0
+    },
+    "1532131200000": {
+      "holdersCount": 13467,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 101,
+      "transfersValue": 477172.674646,
+      "emission": 0
+    },
+    "1532217600000": {
+      "holdersCount": 13457,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 98,
+      "transfersValue": 1138987.850036,
+      "emission": 0
+    },
+    "1532304000000": {
+      "holdersCount": 13461,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 130,
+      "transfersValue": 955010.580606,
+      "emission": 0
+    },
+    "1532390400000": {
+      "holdersCount": 13429,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 185,
+      "transfersValue": 1633885.533656,
+      "emission": 0
+    },
+    "1532476800000": {
+      "holdersCount": 13406,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 120,
+      "transfersValue": 1440190.22415,
+      "emission": 0
+    },
+    "1532563200000": {
+      "holdersCount": 13373,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 130,
+      "transfersValue": 1776014.425136,
+      "emission": 0
+    },
+    "1532649600000": {
+      "holdersCount": 13354,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 162,
+      "transfersValue": 949084.678087,
+      "emission": 0
+    },
+    "1532736000000": {
+      "holdersCount": 13349,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 84,
+      "transfersValue": 645969.087997,
+      "emission": 0
+    },
+    "1532822400000": {
+      "holdersCount": 13303,
+      "totalSupply": 249695789.831074,
+      "transfersCount": 124,
+      "transfersValue": 2694529.678032,
+      "emission": 0
+    },
+    "1532908800000": {
+      "holdersCount": 13306,
+      "totalSupply": 249695874.705388,
+      "transfersCount": 129,
+      "transfersValue": 1395548.393886,
+      "emission": 84.874314
+    },
+    "1532995200000": {
+      "holdersCount": 13295,
+      "totalSupply": 249695874.705388,
+      "transfersCount": 125,
+      "transfersValue": 1153046.590725,
+      "emission": 0
+    },
+    "1533081600000": {
+      "holdersCount": 13299,
+      "totalSupply": 249695874.705388,
+      "transfersCount": 86,
+      "transfersValue": 756562.524746,
+      "emission": 0
+    },
+    "1533168000000": {
+      "holdersCount": 13294,
+      "totalSupply": 249695874.705388,
+      "transfersCount": 108,
+      "transfersValue": 646449.249583,
+      "emission": 0
+    },
+    "1533254400000": {
+      "holdersCount": 13289,
+      "totalSupply": 249695874.705388,
+      "transfersCount": 89,
+      "transfersValue": 509085.078311,
+      "emission": 0
+    },
+    "1533340800000": {
+      "holdersCount": 13291,
+      "totalSupply": 249695874.705388,
+      "transfersCount": 56,
+      "transfersValue": 256141.352061,
+      "emission": 0
+    },
+    "1533427200000": {
+      "holdersCount": 13290,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 44,
+      "transfersValue": 183064.880465,
+      "emission": 1063
+    },
+    "1533513600000": {
+      "holdersCount": 13285,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 72,
+      "transfersValue": 279431.811759,
+      "emission": 0
+    },
+    "1533600000000": {
+      "holdersCount": 13283,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 51,
+      "transfersValue": 333565.93138,
+      "emission": 0
+    },
+    "1533686400000": {
+      "holdersCount": 13285,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 69,
+      "transfersValue": 657983.736618,
+      "emission": 0
+    },
+    "1533772800000": {
+      "holdersCount": 13284,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 77,
+      "transfersValue": 673460.681055,
+      "emission": 0
+    },
+    "1533859200000": {
+      "holdersCount": 13278,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 63,
+      "transfersValue": 531368.699002,
+      "emission": 0
+    },
+    "1533945600000": {
+      "holdersCount": 13256,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 214,
+      "transfersValue": 4488348.64732,
+      "emission": 0
+    },
+    "1534032000000": {
+      "holdersCount": 13275,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 146,
+      "transfersValue": 1380172.089523,
+      "emission": 0
+    },
+    "1534118400000": {
+      "holdersCount": 13275,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 177,
+      "transfersValue": 1489113.245688,
+      "emission": 0
+    },
+    "1534204800000": {
+      "holdersCount": 13261,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 170,
+      "transfersValue": 2775947.568576,
+      "emission": 0
+    },
+    "1534291200000": {
+      "holdersCount": 13215,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 198,
+      "transfersValue": 6563820.98816,
+      "emission": 0
+    },
+    "1534377600000": {
+      "holdersCount": 13206,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 78,
+      "transfersValue": 554325.208335,
+      "emission": 0
+    },
+    "1534464000000": {
+      "holdersCount": 13206,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 90,
+      "transfersValue": 646720.951591,
+      "emission": 0
+    },
+    "1534550400000": {
+      "holdersCount": 13196,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 95,
+      "transfersValue": 472863.948854,
+      "emission": 0
+    },
+    "1534636800000": {
+      "holdersCount": 13198,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 53,
+      "transfersValue": 1168949.888628,
+      "emission": 0
+    },
+    "1534723200000": {
+      "holdersCount": 13195,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 50,
+      "transfersValue": 326940.451663,
+      "emission": 0
+    },
+    "1534809600000": {
+      "holdersCount": 13148,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 117,
+      "transfersValue": 2226469.769319,
+      "emission": 0
+    },
+    "1534896000000": {
+      "holdersCount": 13000,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 248,
+      "transfersValue": 2263268.521763,
+      "emission": 0
+    },
+    "1534982400000": {
+      "holdersCount": 12877,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 190,
+      "transfersValue": 981899.018864,
+      "emission": 0
+    },
+    "1535068800000": {
+      "holdersCount": 12777,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 170,
+      "transfersValue": 790689.301628,
+      "emission": 0
+    },
+    "1535155200000": {
+      "holdersCount": 12504,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 327,
+      "transfersValue": 1648195.378474,
+      "emission": 0
+    },
+    "1535241600000": {
+      "holdersCount": 12342,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 240,
+      "transfersValue": 997729.22469,
+      "emission": 0
+    },
+    "1535328000000": {
+      "holdersCount": 12137,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 301,
+      "transfersValue": 1706801.566478,
+      "emission": 0
+    },
+    "1535414400000": {
+      "holdersCount": 11973,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 256,
+      "transfersValue": 2241944.054406,
+      "emission": 0
+    },
+    "1535500800000": {
+      "holdersCount": 11894,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 153,
+      "transfersValue": 946661.247036,
+      "emission": 0
+    },
+    "1535587200000": {
+      "holdersCount": 11822,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 144,
+      "transfersValue": 1159555.049417,
+      "emission": 0
+    },
+    "1535673600000": {
+      "holdersCount": 11713,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 224,
+      "transfersValue": 3675170.824213,
+      "emission": 0
+    },
+    "1535760000000": {
+      "holdersCount": 11611,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 169,
+      "transfersValue": 1062102.357885,
+      "emission": 0
+    },
+    "1535846400000": {
+      "holdersCount": 11535,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 149,
+      "transfersValue": 836628.493079,
+      "emission": 0
+    },
+    "1535932800000": {
+      "holdersCount": 11462,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 149,
+      "transfersValue": 982925.339591,
+      "emission": 0
+    },
+    "1536019200000": {
+      "holdersCount": 11410,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 232,
+      "transfersValue": 2390741.172813,
+      "emission": 0
+    },
+    "1536105600000": {
+      "holdersCount": 11330,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 149,
+      "transfersValue": 1034617.026717,
+      "emission": 0
+    },
+    "1536192000000": {
+      "holdersCount": 11230,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 179,
+      "transfersValue": 1096937.87471,
+      "emission": 0
+    },
+    "1536278400000": {
+      "holdersCount": 11181,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 133,
+      "transfersValue": 5582356.938445,
+      "emission": 0
+    },
+    "1536364800000": {
+      "holdersCount": 11036,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 218,
+      "transfersValue": 869778.304676,
+      "emission": 0
+    },
+    "1536451200000": {
+      "holdersCount": 10905,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 196,
+      "transfersValue": 771618.45334,
+      "emission": 0
+    },
+    "1536537600000": {
+      "holdersCount": 10862,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 177,
+      "transfersValue": 1403288.938685,
+      "emission": 0
+    },
+    "1536624000000": {
+      "holdersCount": 10872,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 70,
+      "transfersValue": 864921.352337,
+      "emission": 0
+    },
+    "1536710400000": {
+      "holdersCount": 10870,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 81,
+      "transfersValue": 401058.311451,
+      "emission": 0
+    },
+    "1536796800000": {
+      "holdersCount": 10865,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 74,
+      "transfersValue": 716746.224194,
+      "emission": 0
+    },
+    "1536883200000": {
+      "holdersCount": 10863,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 101,
+      "transfersValue": 833210.128007,
+      "emission": 0
+    },
+    "1536969600000": {
+      "holdersCount": 10852,
+      "totalSupply": 249696937.705388,
+      "transfersCount": 70,
+      "transfersValue": 576459.909313,
+      "emission": 0
+    },
+    "1537056000000": {
+      "holdersCount": 10849,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 59,
+      "transfersValue": 225960.606009,
+      "emission": 84.874314
+    },
+    "1537142400000": {
+      "holdersCount": 10775,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 139,
+      "transfersValue": 1018919.556305,
+      "emission": 0
+    },
+    "1537228800000": {
+      "holdersCount": 10769,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 66,
+      "transfersValue": 404067.424322,
+      "emission": 0
+    },
+    "1537315200000": {
+      "holdersCount": 10779,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 57,
+      "transfersValue": 466127.18533,
+      "emission": 0
+    },
+    "1537401600000": {
+      "holdersCount": 10778,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 68,
+      "transfersValue": 642005.737713,
+      "emission": 0
+    },
+    "1537488000000": {
+      "holdersCount": 10764,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 104,
+      "transfersValue": 393720.083694,
+      "emission": 0
+    },
+    "1537574400000": {
+      "holdersCount": 10757,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 28,
+      "transfersValue": 95373.267237,
+      "emission": 0
+    },
+    "1537660800000": {
+      "holdersCount": 10747,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 38,
+      "transfersValue": 860822.322864,
+      "emission": 0
+    },
+    "1537747200000": {
+      "holdersCount": 10736,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 73,
+      "transfersValue": 959309.112198,
+      "emission": 0
+    },
+    "1537833600000": {
+      "holdersCount": 10736,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 47,
+      "transfersValue": 204816.771909,
+      "emission": 0
+    },
+    "1537920000000": {
+      "holdersCount": 10729,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 63,
+      "transfersValue": 364984.407417,
+      "emission": 0
+    },
+    "1538006400000": {
+      "holdersCount": 10721,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 66,
+      "transfersValue": 427676.062143,
+      "emission": 0
+    },
+    "1538092800000": {
+      "holdersCount": 10730,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 68,
+      "transfersValue": 491475.5261,
+      "emission": 0
+    },
+    "1538179200000": {
+      "holdersCount": 10727,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 42,
+      "transfersValue": 415673.963025,
+      "emission": 0
+    },
+    "1538265600000": {
+      "holdersCount": 10722,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 43,
+      "transfersValue": 201065.612445,
+      "emission": 0
+    },
+    "1538352000000": {
+      "holdersCount": 10727,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 70,
+      "transfersValue": 357370.021427,
+      "emission": 0
+    },
+    "1538438400000": {
+      "holdersCount": 10667,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 120,
+      "transfersValue": 2571532.596022,
+      "emission": 0
+    },
+    "1538524800000": {
+      "holdersCount": 10652,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 78,
+      "transfersValue": 529510.526124,
+      "emission": 0
+    },
+    "1538611200000": {
+      "holdersCount": 10644,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 76,
+      "transfersValue": 665161.836328,
+      "emission": 0
+    },
+    "1538697600000": {
+      "holdersCount": 10643,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 84,
+      "transfersValue": 701196.029459,
+      "emission": 0
+    },
+    "1538784000000": {
+      "holdersCount": 10636,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 88,
+      "transfersValue": 821575.438279,
+      "emission": 0
+    },
+    "1538870400000": {
+      "holdersCount": 10631,
+      "totalSupply": 249697022.579702,
+      "transfersCount": 71,
+      "transfersValue": 713536.168741,
+      "emission": 0
+    },
+    "1538956800000": {
+      "holdersCount": 10597,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 123,
+      "transfersValue": 1092318.40657,
+      "emission": 84.874314
+    },
+    "1539043200000": {
+      "holdersCount": 10575,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 88,
+      "transfersValue": 836285.490686,
+      "emission": 0
+    },
+    "1539129600000": {
+      "holdersCount": 10565,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 72,
+      "transfersValue": 944145.871559,
+      "emission": 0
+    },
+    "1539216000000": {
+      "holdersCount": 10475,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 149,
+      "transfersValue": 1705411.247412,
+      "emission": 0
+    },
+    "1539302400000": {
+      "holdersCount": 10470,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 69,
+      "transfersValue": 597214.008954,
+      "emission": 0
+    },
+    "1539388800000": {
+      "holdersCount": 10464,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 51,
+      "transfersValue": 411019.946102,
+      "emission": 0
+    },
+    "1539475200000": {
+      "holdersCount": 10460,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 44,
+      "transfersValue": 363818.334919,
+      "emission": 0
+    },
+    "1539561600000": {
+      "holdersCount": 10437,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 81,
+      "transfersValue": 1406791.864481,
+      "emission": 0
+    },
+    "1539648000000": {
+      "holdersCount": 10497,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 192,
+      "transfersValue": 936299.146975,
+      "emission": 0
+    },
+    "1539734400000": {
+      "holdersCount": 10910,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 1002,
+      "transfersValue": 1991071.939217,
+      "emission": 0
+    },
+    "1539820800000": {
+      "holdersCount": 10709,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 484,
+      "transfersValue": 4169980.065114,
+      "emission": 0
+    },
+    "1539907200000": {
+      "holdersCount": 10597,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 237,
+      "transfersValue": 1846135.750549,
+      "emission": 0
+    },
+    "1539993600000": {
+      "holdersCount": 10557,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 106,
+      "transfersValue": 887832.245234,
+      "emission": 0
+    },
+    "1540080000000": {
+      "holdersCount": 10509,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 110,
+      "transfersValue": 413833.089168,
+      "emission": 0
+    },
+    "1540166400000": {
+      "holdersCount": 10486,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 105,
+      "transfersValue": 1627588.431799,
+      "emission": 0
+    },
+    "1540252800000": {
+      "holdersCount": 10423,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 148,
+      "transfersValue": 3104204.729174,
+      "emission": 0
+    },
+    "1540339200000": {
+      "holdersCount": 10147,
+      "totalSupply": 249697107.454016,
+      "transfersCount": 312,
+      "transfersValue": 2950890.918008,
+      "emission": 0
+    },
+    "1540425600000": {
+      "holdersCount": 9668,
+      "totalSupply": 249706441.485718,
+      "transfersCount": 560,
+      "transfersValue": 2448150.798686,
+      "emission": 9334.031702
+    },
+    "1540512000000": {
+      "holdersCount": 9359,
+      "totalSupply": 249706441.485718,
+      "transfersCount": 383,
+      "transfersValue": 2175233.771378,
+      "emission": 0
+    },
+    "1540598400000": {
+      "holdersCount": 9149,
+      "totalSupply": 249706441.485718,
+      "transfersCount": 250,
+      "transfersValue": 1241194.931391,
+      "emission": 0
+    },
+    "1540684800000": {
+      "holdersCount": 9125,
+      "totalSupply": 249706441.485718,
+      "transfersCount": 75,
+      "transfersValue": 711464.326589,
+      "emission": 0
+    },
+    "1540771200000": {
+      "holdersCount": 8954,
+      "totalSupply": 249706441.485718,
+      "transfersCount": 228,
+      "transfersValue": 6814078.990416,
+      "emission": 0
+    },
+    "1540857600000": {
+      "holdersCount": 9818,
+      "totalSupply": 249706441.485718,
+      "transfersCount": 1111,
+      "transfersValue": 729528.211625,
+      "emission": 0
+    },
+    "1540944000000": {
+      "holdersCount": 10694,
+      "totalSupply": 249706441.485718,
+      "transfersCount": 1099,
+      "transfersValue": 673406.676817,
+      "emission": 0
+    },
+    "1541030400000": {
+      "holdersCount": 12681,
+      "totalSupply": 249706441.485718,
+      "transfersCount": 2346,
+      "transfersValue": 448686.294994,
+      "emission": 0
+    },
+    "1541116800000": {
+      "holdersCount": 13778,
+      "totalSupply": 249706441.485718,
+      "transfersCount": 1495,
+      "transfersValue": 862389.959145,
+      "emission": 0
+    },
+    "1541203200000": {
+      "holdersCount": 13631,
+      "totalSupply": 249706441.485718,
+      "transfersCount": 223,
+      "transfersValue": 643166.466434,
+      "emission": 0
+    },
+    "1541289600000": {
+      "holdersCount": 13533,
+      "totalSupply": 249706441.485718,
+      "transfersCount": 168,
+      "transfersValue": 267589.366222,
+      "emission": 0
+    },
+    "1541376000000": {
+      "holdersCount": 13523,
+      "totalSupply": 249706441.485718,
+      "transfersCount": 20,
+      "transfersValue": 50868.626414,
+      "emission": 0
+    }
+  }
+}
