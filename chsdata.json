@@ -1,7 +1,7 @@
 {
   "totalSupply": 249706441.485718,
   "holdersCount": 13523,
-  "byDate": [
+  "byDate": {
     "1518825600000": {
       "holdersCount": 2,
       "totalSupply": 1000000000,
@@ -1829,5 +1829,5 @@
       "transfersValue": 50868.626414,
       "emission": 0
     }
-  ]
+  }
 }
